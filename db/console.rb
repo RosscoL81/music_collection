@@ -51,6 +51,8 @@ album4 = Album.new({
 
 album4.save()
 
+
+
 Artist.all()
 Album.all()
 
