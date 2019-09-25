@@ -1,0 +1,2 @@
+1. can we go over the Update function?   we got an "method" error but unsure why.
+2. why do we not need a "require_relative" between the album.rb and artist.rb files?
